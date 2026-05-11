@@ -5,7 +5,6 @@ import os
 
 # Telegram ID адміністратора (власника)
 # Щоб дізнатися свій ID — напишіть боту @userinfobot
-ADMIN_IDS = [
-    368848319,  # замініть на ваш реальний Telegram ID
-]
+ADMIN_IDS = [368848319],  # замініть на ваш реальний Telegram ID
+
 

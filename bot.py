@@ -16,7 +16,7 @@ from salary import calculate_salary
 from storage import save_record, get_all_records, clear_records
 
 logging.basicConfig(level=logging.INFO)
-bot = Bot(token=BOT_TOKEN)
+bot = Bot(token="8575401574:AAFyg2XQjymYOey-jzBANHUM8bGg9ooehnI")
 dp = Dispatcher(storage=MemoryStorage())
 
 

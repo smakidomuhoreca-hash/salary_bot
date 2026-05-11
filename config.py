@@ -8,3 +8,4 @@ BOT_TOKEN = 8575401574:AAGw3jgfphaN_J7CUkGySSjWMM7exnsJjnc
 ADMIN_IDS = [
     368848319,  # замініть на ваш реальний Telegram ID
 ]
+
